@@ -1,0 +1,14 @@
+QRfSplat es un sencillo front-end para Splat!, su manejo es intuitivo.
+
+Los parámetros para Splat! se generan con QRfSplat, por lo que es
+muy recomendable acudir al sitio http://www.qsl.net/kd2bd/splat.html
+para entenderlos.
+
+Compilación
+
+Para compilar el programa es necesario que instales el framework Qt5
+lo puedes obtener desde https://www.qt.io/download/
+
+Version 1.0.Repentless
+
+
